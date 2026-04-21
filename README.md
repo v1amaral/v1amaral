@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=707070&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Amaral&repeat=false&pause=10000000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Amaral+👋;Welcome+to+my+profile!+:%29&repeat=false&pause=10000000)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/a2/a5/5ea2a556835276e20a6942d5871677b4.gif" width="300" alt="Pixel Art Study GIF">
