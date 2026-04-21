@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel+Decorative&color=F0F0F0&size=21&center=true&vCenter=true&width=400&lines=Knowledge:&repeat=false&pause=10000000" alt="Knowledge Title" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,hibernate,spring,linux&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,spring,linux,git&theme=dark&perline=7" />
 </p>
 <br>
 <br>
