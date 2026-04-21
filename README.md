@@ -5,9 +5,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/a2/a5/5ea2a556835276e20a6942d5871677b4.gif" width="300" alt="Pixel Art Study GIF">
 </p>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+in+the+making;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+in+the+making;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F0F0F0&height=2&width=400&opacity=0.5"/>
