@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Amaral+👋;Welcome+to+my+profile!+:%29&repeat=false&pause=10000000)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5e/a2/a5/5ea2a556835276e20a6942d5871677b4.gif" width="300" alt="Pixel Art Study GIF">
+  <img src="https://i.pinimg.com/originals/5e/a2/a5/5ea2a556835276e20a6942d5871677b4.gif" width="300" alt="Luffy One Piece GIF">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+in+the+making;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
