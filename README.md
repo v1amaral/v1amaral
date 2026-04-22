@@ -4,7 +4,7 @@
 <!-- MEU NOME ESTÁTICO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Amaral+👋;Welcome+to+my+profile!+:%29&repeat=false&pause=10000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vitor+Amaral;Welcome+to+my+profile!+:%29&repeat=false&pause=10000000" />
   </a>
 </p>
 
