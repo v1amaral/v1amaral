@@ -16,7 +16,7 @@
 <!-- APRESENTAÇÃO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+in+the+making;Welcome+to+my+profile!+:%29" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Special+Elite&color=F0F0F0&size=25&center=true&vCenter=true&width=1000&lines=Java+Developer;Welcome+to+my+profile!+:%29" />
   </a>
 </p>
 
